@@ -1,3 +1,2 @@
 # starbucksPractice
-#这是一个用Jquery写的星巴克主页，主要是练习@media响应式，主要用到Jquery的一些动画，比如Fadein Fadeout这些
-#CSS方面主要是用到弹性盒模型
+#这是一个用Jquery写的星巴克主页，顺便练习@media响应式，主要用到Jquery的一些动画，比如Fadein Fadeout这些,布局方面主要是用到弹性盒模型，还有一些溢出滚动。网页中还包一个轮播图，通过js改变CSS的translateX，通过三张图轮换呈现一个轮播图的视觉效果。
